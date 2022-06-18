@@ -1,0 +1,38 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">VoiceRecorder</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="first_voice" tools:ignore="ExtraTranslation">First voice</string>
+    <string name="second_voice" tools:ignore="ExtraTranslation">Second voice</string>
+    <string name="stop_voice" tools:ignore="ExtraTranslation">stop record</string>
+    <string name="send_file" tools:ignore="ExtraTranslation">get result</string>
+    <string name="start_record" tools:ignore="ExtraTranslation">start record</string>
+    <string name="first_sentence" tools:ignore="ExtraTranslation">The first sentence</string>
+    <string name="second_sentence" tools:ignore="ExtraTranslation">The second sentence</string>
+
+    <string name="read_text_first" tools:ignore="ExtraTranslation">2.The first printed edition appeared in London in 1553.</string>
+    <string name="read_text_second" tools:ignore="ExtraTranslation">6.The car warmed quickly and she fell asleep again.</string>
+
+    <string name="read_text_user" tools:ignore="ExtraTranslation">1.Paris was founded about 1825, was incorporated in 1853, and was re-incorporated in 1873.
+2.The first printed edition appeared in London in 15
+3.There is a public park, besides bowling-greens and cricket and football fields.53.
+4.Through the whole of this tract the letters are used which are common to Persian, Arabic and Turkish, written from right to left.
+5.His particular research interests were in Artificial Intelligence applied to advanced automation.
+6.The car warmed quickly and she fell asleep again.
+7.They would have some time to enjoy a late Christmas at home when they returned.</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="dialog">DIALOG</string>
+    <string name="stop_recordd">STOP RECORD</string>
+    <string name="start_recordd">START RECORD</string>
+    <string name="started_record">RECORD STARTED</string>
+    <string name="play_recordd">Play Record</string>
+    <string name="stop_play_recordd">STOP PLAYING</string>
+
+</resources>
